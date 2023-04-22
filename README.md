@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @therealdinish
-- 👀 I’m interested in engineering & IT
+- 👋 Hi, I’m DinishSkilled manufacturing engineer with expertise in 5S, process control and semiconductor manufacturing. Proficient in SQL, Excel, R, and a strong team player.
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/dinishsubaramaniam/
 
